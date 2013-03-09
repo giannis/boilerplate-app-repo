@@ -1,0 +1,11 @@
+{
+    "name": "",
+    "description": "",
+    "version": "0.0.0",
+    "homepage" : "",
+    "author": "",
+    "repository" : {
+        "type" : "git",
+         "url" : ""
+    }
+}

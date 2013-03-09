@@ -1,0 +1,22 @@
+{
+    "name": "",
+    "description": "",
+    "version": "0.0.0",
+    "homepage" : "",
+    "help": {
+        "web": ""
+    },
+    "author": "",
+    "repository" : {
+        "type" : "git",
+         "url" : ""
+    },
+    "dependencies": {
+    },
+    "devDependencies": {
+    },
+    "scripts": {
+        "build"    : "",
+        "update_db": ""
+    }
+}
